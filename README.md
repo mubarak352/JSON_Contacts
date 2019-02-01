@@ -1,0 +1,2 @@
+# sampleExercises
+Basic coding exercises
